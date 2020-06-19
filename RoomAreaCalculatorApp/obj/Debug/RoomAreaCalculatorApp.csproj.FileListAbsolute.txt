@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\bin\Debug\RoomAreaCalculatorApp.exe.config
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\bin\Debug\RoomAreaCalculatorApp.exe
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\bin\Debug\RoomAreaCalculatorApp.pdb
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\obj\Debug\RoomAreaCalculatorApp.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\obj\Debug\RoomAreaCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\obj\Debug\RoomAreaCalculatorApp.exe
+C:\Users\hphifer\source\repos\RoomAreaCalculatorApp\RoomAreaCalculatorApp\obj\Debug\RoomAreaCalculatorApp.pdb
